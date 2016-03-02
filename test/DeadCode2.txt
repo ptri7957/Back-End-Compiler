@@ -1,0 +1,5 @@
+( (test (n)
+    (0 (ld r1 x)
+       (lc r2 y)
+       (ld r3 x)
+       (ret r3) ) ) )
